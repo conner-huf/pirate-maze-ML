@@ -9,8 +9,8 @@ This project uses Keras to program an intelligent agent to solve a maze puzzle. 
 
 The game starts with the agent at a random starting point:
 
-![Starting Point image](screenshots/start_state)
+![Starting Point image](screenshots/start_state.png)
 
 and the objective is for the agent to navigate to the end point:
 
-![Ending Point image](screenshots/end_state)
+![Ending Point image](screenshots/end_state.png)
